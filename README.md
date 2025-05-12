@@ -91,11 +91,6 @@ This implementation uses:
   - `include/philo.h`: Main header with data structures and function prototypes
   - `include/checks.h`: Header for argument checking functions
 
-## Resources
-
-- The project includes a tester in the `LazyPhilosophersTester` directory
-- For debugging, the program provides detailed status output for each philosopher
-
 ## Author
 [mgenoves](https://profile-v3.intra.42.fr/users/mgenoves)
 
